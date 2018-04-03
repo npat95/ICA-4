@@ -1,5 +1,7 @@
 # ICA-4
 
-## Datasets.titanic
+**Datasets.titanic**
 
-This dataset describes information about the passengers on the Titanic
+This dataset describes information about the passengers on the Titanic such as the age, sex, fare amount, and who survived.
+
+
