@@ -7,9 +7,7 @@ This dataset describes information about the passengers on the Titanic such as t
 Which passengers were male and over the age of 20?
 
 SELECT name,
-
         sex,
-        
         age
         
 FROM datasets.titanic
