@@ -7,6 +7,10 @@ This dataset describes information about the passengers on the Titanic such as t
 Question #1: 
 Which passengers were minors (<18)?
 
+Select name
+
+       sex,
+
 
 Question #2:
 Which passengers were adults (>18)?
