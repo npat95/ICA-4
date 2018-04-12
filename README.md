@@ -7,19 +7,16 @@ This dataset describes information about the passengers on the Titanic such as t
 Question #1: 
 Which passengers were minors (<18)?
 
-SELECT name,
-        sex,
-        age
-FROM datasets.titanic
-WHERE age<=18 
-ORDER BY age DESC
-LIMIT 100
+
+Question #2:
+Which passengers were adults (>18)?
 
 
-Question #2
+Question #3:
+Which passengers under 50 years old did not survive?
 
-Question #3
+Question #4:
+Which passengers over 50 years old survived?
 
-Question #4
-
-Question #5
+Question #5:
+Which passengers equal to or under 50 years old survived?
